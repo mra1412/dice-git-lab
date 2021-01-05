@@ -2,3 +2,4 @@ Three way merge on main.
 This is another version.
 Demo of conflicts in merging.
 Editing for rebase.
+This line will be stashed.
